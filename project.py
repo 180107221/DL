@@ -11,7 +11,6 @@ Original file is located at
 
 ###Zhandos Smatulla
 
-###Tamirlan Rassylbek
 """
 
 import os
